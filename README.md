@@ -14,7 +14,10 @@ The website about *Polish Hounds*
 <figure>
 	<img src="https://scontent.fwaw5-1.fna.fbcdn.net/v/t1.0-9/37748171_1603577499748425_3234233124053319680_o.jpg?_nc_cat=0&oh=c2973b46337160490b21df9bf4becfb3&oe=5BF2D240" alt="">
 	<figcaption> Śnieżka, my Polish hound is relaxing after intensive play wrestling with her best friend, Tosia</figcaption>
-</figure>
+</figure
+<figure>
+<img src="IMG_1806copy.jpg" alt="">	
+</figure>	
 </article>
 </body>
 </html>
